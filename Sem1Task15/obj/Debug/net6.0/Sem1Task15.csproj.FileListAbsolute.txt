@@ -1,0 +1,15 @@
+C:\Users\Андрей\Desktop\Developer\Programming Introduction\Seminar1\ProgIntrSem1\Sem1Task15\bin\Debug\net6.0\Sem1Task15.exe
+C:\Users\Андрей\Desktop\Developer\Programming Introduction\Seminar1\ProgIntrSem1\Sem1Task15\bin\Debug\net6.0\Sem1Task15.deps.json
+C:\Users\Андрей\Desktop\Developer\Programming Introduction\Seminar1\ProgIntrSem1\Sem1Task15\bin\Debug\net6.0\Sem1Task15.runtimeconfig.json
+C:\Users\Андрей\Desktop\Developer\Programming Introduction\Seminar1\ProgIntrSem1\Sem1Task15\bin\Debug\net6.0\Sem1Task15.dll
+C:\Users\Андрей\Desktop\Developer\Programming Introduction\Seminar1\ProgIntrSem1\Sem1Task15\bin\Debug\net6.0\Sem1Task15.pdb
+C:\Users\Андрей\Desktop\Developer\Programming Introduction\Seminar1\ProgIntrSem1\Sem1Task15\obj\Debug\net6.0\Sem1Task15.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\Developer\Programming Introduction\Seminar1\ProgIntrSem1\Sem1Task15\obj\Debug\net6.0\Sem1Task15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Desktop\Developer\Programming Introduction\Seminar1\ProgIntrSem1\Sem1Task15\obj\Debug\net6.0\Sem1Task15.AssemblyInfoInputs.cache
+C:\Users\Андрей\Desktop\Developer\Programming Introduction\Seminar1\ProgIntrSem1\Sem1Task15\obj\Debug\net6.0\Sem1Task15.AssemblyInfo.cs
+C:\Users\Андрей\Desktop\Developer\Programming Introduction\Seminar1\ProgIntrSem1\Sem1Task15\obj\Debug\net6.0\Sem1Task15.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\Developer\Programming Introduction\Seminar1\ProgIntrSem1\Sem1Task15\obj\Debug\net6.0\Sem1Task15.dll
+C:\Users\Андрей\Desktop\Developer\Programming Introduction\Seminar1\ProgIntrSem1\Sem1Task15\obj\Debug\net6.0\refint\Sem1Task15.dll
+C:\Users\Андрей\Desktop\Developer\Programming Introduction\Seminar1\ProgIntrSem1\Sem1Task15\obj\Debug\net6.0\Sem1Task15.pdb
+C:\Users\Андрей\Desktop\Developer\Programming Introduction\Seminar1\ProgIntrSem1\Sem1Task15\obj\Debug\net6.0\Sem1Task15.genruntimeconfig.cache
+C:\Users\Андрей\Desktop\Developer\Programming Introduction\Seminar1\ProgIntrSem1\Sem1Task15\obj\Debug\net6.0\ref\Sem1Task15.dll

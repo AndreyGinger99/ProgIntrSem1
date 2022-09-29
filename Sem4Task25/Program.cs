@@ -26,7 +26,7 @@ void PrintResult(string line)
     Console.WriteLine(line);
 }
 
-
+// Сложение
 int Sum(int numberA, int numberB)
 {
     int number = numberA+numberB;
@@ -34,6 +34,7 @@ int Sum(int numberA, int numberB)
     return number;
 }
 
+// Деление
 double Division(int numberA, int numberB)
 {
     double number = numberA/numberB;
@@ -41,6 +42,7 @@ double Division(int numberA, int numberB)
     return number;
 }
 
+// Умножение
 int Multiplication(int numberA, int numberB)
 {
     int number = numberA*numberB;
@@ -48,6 +50,7 @@ int Multiplication(int numberA, int numberB)
     return number;
 }
 
+// Вычитание
 int Subtraction(int numberA, int numberB)
 {
     int number = numberA-numberB;
@@ -55,6 +58,7 @@ int Subtraction(int numberA, int numberB)
     return number;
 }
 
+// Возведение в натуральную степень
 long Exponentiation(int numberA, int numberB)
 {
     long pow = (long)Math.Pow(Convert.ToDouble(numberA), Convert.ToDouble(numberB));
@@ -63,20 +67,21 @@ long Exponentiation(int numberA, int numberB)
 }
 
 
-ReadString("Доступны следующие действия:* / + - ^. Если понятно, нажмите Enter");
-int firstNum = ReadData("Первое число:");
-string action = ReadString("Действие");
-int secondNum = ReadData("Второе число:");
-string result = "Sorry";
+// В зависимости от того, кокое действие выберет пользователь, 
+// будет использоваться соответствующий метод
+//P.S. У меня почему-то данный метод не сворачивается - нет кнопки-стрелочки
+string ActionSelection(int firstNum, string action,  int secondNum)
+{
+    string result = "Sorry";
     if (action=="+")
     {
         result = Sum(firstNum, secondNum).ToString();
     }
-    else if (action=="-")
+            else if (action=="-")
     {
         result = Subtraction(firstNum, secondNum).ToString();
     }
-    else if(action=="/")
+        else if(action=="/")
     {
         result = Division(firstNum, secondNum).ToString();
     }
@@ -88,5 +93,8 @@ string result = "Sorry";
     {
         result = Exponentiation(firstNum, secondNum).ToString();
     }
+    return result;
+}
 
-    PrintResult(result);
+ReadString("Доступны следующие действия:* / + - ^. Если понятно, нажмите Enter");
+PrintResult("Ответ: "+ActionSelection(ReadData("Первое число:"), ReadString("Действие"), ReadData("Второе число:")));
